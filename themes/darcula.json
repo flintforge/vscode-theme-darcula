@@ -6,7 +6,7 @@
     "editor.selectionBackground": "#204182cc",
     "editor.lineHighlightBackground": "#ffffff0b",
     "editor.activeLineNumber.foreground": "#cccccc",
-    "editorGutter.background": "#ffffff0b",
+    "editorGutter.background": "#ffffff00",
     "titleBar.activeBackground": "#ffffff1a",
     "titleBar.inactiveBackground": "#ffffff10",
     "titleBar.activeForeground": "#cccccc",
